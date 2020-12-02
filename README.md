@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### GitHub Pages
-See [Menu Soccer](https://angelmarrugo.github.io/MenuSoccer/).
+See [Menu Soccer](https://angelmarrugo.github.io/RepoMenuSoccer/).
