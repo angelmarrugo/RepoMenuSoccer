@@ -1,0 +1,1 @@
+.flex-container{display:flex;flex-wrap:wrap;width:600px;height:300px;align-content:flex-start;background-color:red}.flex-item{background-color:#8fbc8f;flex-basis:auto;height:50px;margin:10px;flex-grow:1}.flex-item:first-child{order:1}.flex-item:nth-child(2){order:2}
